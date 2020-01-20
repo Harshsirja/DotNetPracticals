@@ -1,0 +1,6 @@
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical1\bin\Debug\Practical1.exe.config
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical1\bin\Debug\Practical1.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical1\bin\Debug\Practical1.pdb
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical1\obj\Debug\Practical1.csprojAssemblyReference.cache
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical1\obj\Debug\Practical1.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical1\obj\Debug\Practical1.pdb

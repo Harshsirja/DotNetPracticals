@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Practical1
 {
@@ -15,6 +11,7 @@ namespace Practical1
             pattern2(); //This will print Pattern_2
             Console.WriteLine();
             pattern3(); //This will print Pattern_3
+            Console.Read();
         }
         static void pattern1()
         {
