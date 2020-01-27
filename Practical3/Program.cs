@@ -19,7 +19,7 @@ namespace Practical3
             DecimaltoOctal(number);
             Console.WriteLine();
             BinarytoDecimal(binary);
-            Console.ReadLine();
+
         }
         private static void  DecimaltoBinary(int number)
         {
