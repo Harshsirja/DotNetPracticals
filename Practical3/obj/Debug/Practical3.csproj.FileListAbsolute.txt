@@ -1,0 +1,5 @@
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical3\bin\Debug\Practical3.exe.config
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical3\bin\Debug\Practical3.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical3\bin\Debug\Practical3.pdb
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical3\obj\Debug\Practical3.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical3\obj\Debug\Practical3.pdb
