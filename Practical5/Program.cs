@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Practical5
 {
@@ -10,7 +6,34 @@ namespace Practical5
     {
         static void Main(string[] args)
         {
-            
+
+            String number = Console.ReadLine();
+            if(number.Length==1)
+            {
+                Console.WriteLine( Digit.onedigit( Int32.Parse(number) ) );
+            }
+            else if(number.Length==2)
+            {
+                Console.WriteLine( Digit.twodigit( Int32.Parse(number) ) );
+            }
+            else if(number.Length==3)
+            {
+                Console.WriteLine( Digit.threedigit( Int32.Parse(number) ) );
+            }
+            else if(number.Length==4)
+            {
+                Console.WriteLine( Digit.fourdigit( Int32.Parse(number) ) );
+            }
+            else if(number.Length==5)
+            {
+                Console.WriteLine(Digit.fivedigit(Int32.Parse(number)));
+            }
+            else
+            {
+                Console.WriteLine("Enter Number Only");
+            }
+            Console.WriteLine("Press Enter For Exit...");
+            Console.ReadLine();
         }
     }
 }
