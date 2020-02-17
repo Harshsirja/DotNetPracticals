@@ -1,0 +1,6 @@
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\sample\bin\Debug\sample.exe.config
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\sample\bin\Debug\sample.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\sample\bin\Debug\sample.pdb
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\sample\obj\Debug\sample.csprojAssemblyReference.cache
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\sample\obj\Debug\sample.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\sample\obj\Debug\sample.pdb

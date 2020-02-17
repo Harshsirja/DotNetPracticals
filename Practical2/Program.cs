@@ -18,6 +18,7 @@ namespace Practical2
             } while (!Regex.IsMatch(country, "^[a-zA-Z]+$"));
             Console.WriteLine("Hello " + name + " from country " + country);
             Console.ReadLine();
+
         }
     }
 }
