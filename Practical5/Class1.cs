@@ -206,6 +206,16 @@ namespace Practical5
             {
                 s.Push("Thousand");
                 int t = (n[0] * 10) + n[1];
+                    temp = Digit.twodigit(t);
+
+            }
+            else if(0==n[1] && 0==n[2] && 0==n[3] && 0!=n[4])
+            {
+                int t;
+                temp = Digit.onedigit(n[4]);
+                s.Push(temp);
+                s.Push("Thousand");
+                t = (n[0] * 10) + n[1];
                 temp = Digit.twodigit(t);
                 s.Push(temp);
             }
@@ -227,6 +237,75 @@ namespace Practical5
                 s.Push("Thousand");
                 t = (n[0] * 10) + n[1];
                 temp = Digit.twodigit(t);
+                s.Push(temp);
+            }
+
+            temp = popalldata_Stack(s);
+            return temp;
+        }
+
+        //Generate for six digit
+        public static String sixdigit(int number)
+        {
+            int[] n = new int[6];
+            int i = 5;
+            String temp;
+            Stack<String> s = new Stack<String>();
+
+            n = seperateDigit(number, n, i);
+
+            if(0==n[1] && 0==n[2] && 0==n[3] && 0==n[4] && 0==n[5])
+            {
+                s.Push("Lakh");
+                temp = Digit.onedigit(n[0]);
+                s.Push(temp);
+            }
+            else if(0==n[1] && 0!=n[2] && 0!=n[3] && 0!=n[4] && 0!=n[5])
+            {
+                int t;
+                t = (n[2] * 1000) + (n[3] * 100) + (n[4] * 10) + n[5];
+                temp = Digit.fourdigit(t);
+                s.Push(temp);
+                s.Push("Lakh");
+                temp = Digit.onedigit(n[0]);
+                s.Push(temp);
+            }
+            else if(0 == n[1] && 0 == n[2] && 0 != n[3] && 0 != n[4] && 0 != n[5])
+            {
+                int t;
+                t = (n[3] * 100) + (n[4] * 10) + n[5];
+                temp = Digit.threedigit(t);
+                s.Push(temp);
+                s.Push("Lakh");
+                temp = Digit.onedigit(n[0]);
+                s.Push(temp);
+            }
+            else if (0 == n[1] && 0 == n[2] && 0 == n[3] && 0 != n[4] && 0 != n[5])
+            {
+                int t;
+                t = (n[4] * 10) + n[5];
+                temp = Digit.twodigit(t);
+                s.Push(temp);
+                s.Push("Lakh");
+                temp = Digit.onedigit(n[0]);
+                s.Push(temp);
+            }
+            else if (0!=n[0] && 0 == n[1] && 0 == n[2] && 0 == n[3] && 0 == n[4] && 0 != n[5])
+            {
+                temp = Digit.onedigit(n[5]);
+                s.Push(temp);
+                s.Push("Lakh");
+                temp = Digit.onedigit(n[0]);
+                s.Push(temp);
+            }
+            else
+            {
+                int t;
+                t = (n[1] * 10000) + (n[2] * 1000) + (n[3] * 100) + (n[4] * 10) + n[5];
+                temp = Digit.fivedigit(t);
+                s.Push(temp);
+                s.Push("Lakh");
+                temp = Digit.onedigit(n[0]);
                 s.Push(temp);
             }
 

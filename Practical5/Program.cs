@@ -28,6 +28,10 @@ namespace Practical5
             {
                 Console.WriteLine(Digit.fivedigit(Int32.Parse(number)));
             }
+            else if(number.Length==6)
+            {
+                Console.WriteLine(Digit.sixdigit(Int32.Parse(number)));
+            }
             else
             {
                 Console.WriteLine("Enter Number Only");
