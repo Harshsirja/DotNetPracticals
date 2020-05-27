@@ -1,0 +1,6 @@
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical6\bin\Debug\Practical6.exe.config
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical6\bin\Debug\Practical6.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical6\bin\Debug\Practical6.pdb
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical6\obj\Debug\Practical6.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical6\obj\Debug\Practical6.pdb
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical6\obj\Debug\Practical6.csproj.CoreCompileInputs.cache

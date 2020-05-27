@@ -1,39 +1,36 @@
 ﻿using System;
+using System.IO;
 namespace sample
 {
-    class Car
-    {
-        public void display()
-        {
-            Console.Write("Car");
-        }
-    }
-    class Maruti : Car
-    {
-        public void displaymaruti()
-        {
-            Console.Write("Maruti");
-        }
-    }
-    class Mahindra: Car
-    {
-        public void displaymahindra()
-        {
-            Console.Write("Mahindra");
-        }
-    }
     class Program
     {
-        static void Main(String[] args)
+        public static void Main()
         {
-            Maruti maruti = new Maruti();
-            maruti.display();
-            maruti.displaymaruti();
+            string path = @"D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\sample\Program.cs";
+            string destnination = @"D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\sample\destinationfile.txt";
+            string lines;
+            try
+            {
+                if (File.Exists(destnination))
+                {
+                    File.Delete(destnination);
+                }
+                using (StreamWriter sw = new StreamWriter(destnination))
+                using (StreamReader sr = new StreamReader(path))
+                {
+                    while (sr.Peek() >= 0)
+                    {
+                        lines=(sr.ReadLine());
+                        sw.WriteLine(lines);
+                    }
+                }
+            }
+            catch(IOException e)
+            {
+                Console.WriteLine(e);
+            }
+            Console.Read();
 
-            Mahindra mahindra = new Mahindra();
-            mahindra.display();
-            mahindra.displaymahindra();
-            Console.ReadKey();
         }
     }
 }

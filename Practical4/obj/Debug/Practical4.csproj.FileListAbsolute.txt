@@ -4,3 +4,4 @@ D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical4\bin\Debug\Practical
 D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical4\bin\Debug\Practical4.pdb
 D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical4\obj\Debug\Practical4.exe
 D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical4\obj\Debug\Practical4.pdb
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical4\obj\Debug\Practical4.csproj.CoreCompileInputs.cache

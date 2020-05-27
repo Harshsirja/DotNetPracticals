@@ -91,7 +91,7 @@ namespace Practical5
             }
             else if(number >=20)
             {
-                String[] prefixname_twodigit = { "", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" };
+                String[] prefixname_twodigit = { "", "", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" };
                 int[] n = new int[2];
                 int i = 1;
                 String temp;

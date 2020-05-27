@@ -1,0 +1,7 @@
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical7\bin\Debug\Practical7.exe.config
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical7\bin\Debug\Practical7.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical7\bin\Debug\Practical7.pdb
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical7\obj\Debug\Practical7.csprojAssemblyReference.cache
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical7\obj\Debug\Practical7.exe
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical7\obj\Debug\Practical7.pdb
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical7\obj\Debug\Practical7.csproj.CoreCompileInputs.cache
