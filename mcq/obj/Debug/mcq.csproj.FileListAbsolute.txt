@@ -1,7 +1,0 @@
-D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\mcq\obj\Debug\mcq.csprojAssemblyReference.cache
-D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\mcq\obj\Debug\mcq.csproj.CoreCompileInputs.cache
-D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\mcq\bin\Debug\mcq.exe.config
-D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\mcq\bin\Debug\mcq.exe
-D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\mcq\bin\Debug\mcq.pdb
-D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\mcq\obj\Debug\mcq.exe
-D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\mcq\obj\Debug\mcq.pdb
