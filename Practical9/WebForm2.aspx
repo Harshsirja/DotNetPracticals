@@ -1,7 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm2.aspx.cs" Inherits="Practical_9.WebForm2" %>
 
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
@@ -9,7 +8,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <table style="width:100%;">
+            <table style="width: 100%;">
                 <tr>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>

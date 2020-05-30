@@ -71,3 +71,4 @@ D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical10\obj\Debug\Practica
 D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical10\obj\Debug\Practical10.csproj.CopyComplete
 D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical10\obj\Debug\Practical10.dll
 D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical10\obj\Debug\Practical10.pdb
+D:\Study\VVP\3rd year\6th Sem\.NET\DotNetSolution\Practical10\obj\Debug\Practical10.csprojAssemblyReference.cache
